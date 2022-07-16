@@ -1,0 +1,5 @@
+prerequistes:
+1.for/while
+2.basic recursion
+3.probability
+for i range(1,10):
