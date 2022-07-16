@@ -1,0 +1,6 @@
+
+theta and big oh difference 
+ex. insertion sort big oh = O(n^3)//loose upperbound 
+theta = theta(N^2)//tight upperbound
+
+
